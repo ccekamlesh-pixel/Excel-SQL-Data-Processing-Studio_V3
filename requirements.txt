@@ -1,0 +1,12 @@
+PySide6>=6.6.0
+duckdb>=0.10.0
+pandas>=2.0.0
+polars>=0.20.0
+openpyxl>=3.1.0
+sqlalchemy>=2.0.0
+rapidfuzz>=3.0.0
+
+# Optional DB drivers (install as needed):
+# pyodbc          # SQL Server
+# pymysql         # MySQL
+# psycopg2-binary # PostgreSQL
